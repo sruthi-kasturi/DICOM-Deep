@@ -17,7 +17,7 @@ Welcome to **DicomDeep**! This repository is dedicated to the innovative process
 
 ## Dataset
 
-The dataset used in this project consists of 223 DICOM images provided in a zipped folder (`Dicom Images.zip`). The images are processed to sort, extract the middle slice, and visualize them using lung and bone window settings.
+The dataset used in this project consists of 223 DICOM images. The images are processed to sort, extract the middle slice, and visualize them using lung and bone window settings.
 
 ### Example File
 
